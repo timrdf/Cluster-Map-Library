@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<ClassificationTree version="1.0">
+
+<ObjectSet>
+<Object ID="m0"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fspectacle%252Fsysreqs.jsp</Location></Object>
+<Object ID="m1"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fproducts%252Fmetadataserver%252Findex.jsp</Location></Object>
+<Object ID="m2"><Name>AutoFocus : Buy</Name><Location>http://aduna.biz/products/autofocus/buy.jsp</Location></Object>
+<Object ID="m3"><Name>Enterprise use of AutoFocus</Name><Location>http://aduna.biz/products/autofocus/af-enterprise-use.jsp</Location></Object>
+<Object ID="m4"><Name>Aduna Metadata Server 2005.1 Release</Name><Location>http://aduna.biz/news/200503151603.jsp</Location></Object>
+<Object ID="m5"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200412221200.jsp</Location></Object>
+<Object ID="m6"><Name>Privacy</Name><Location>http://aduna.biz/legal/privacy.jsp</Location></Object>
+<Object ID="m7"><Name>footer</Name><Location>http://aduna.biz/frameset/frame-footer.jsp</Location></Object>
+<Object ID="m9"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200503151602.jsp</Location></Object>
+<Object ID="m10"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fspectacle%252Fsales.jsp</Location></Object>
+<Object ID="m11"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/faq.html</Location></Object>
+<Object ID="m12"><Name>Products</Name><Location>http://aduna.biz/products/index.jsp</Location></Object>
+<Object ID="m13"><Location>http://aduna.biz/products/autofocus/images/new-source-dialog.png</Location></Object>
+<Object ID="m14"><Name>Newsletter</Name><Location>http://aduna.biz/aduna/newsletter.jsp</Location></Object>
+<Object ID="m15"><Name>Directions</Name><Location>http://aduna.biz/aduna/directions.jsp</Location></Object>
+<Object ID="m16"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200403101150.jsp</Location></Object>
+<Object ID="m17"><Location>http://aduna.biz/products/autofocus/images/edit-sources.png</Location></Object>
+<Object ID="m18"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200405031044.jsp</Location></Object>
+<Object ID="m19"><Name>Aduna</Name><Location>http://aduna.biz/info/index.html</Location></Object>
+<Object ID="m20"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Faduna%252Fnewsletter.jsp</Location></Object>
+<Object ID="m21"><Name>Aduna</Name><Location>http://aduna.biz/news/200411061458.html</Location></Object>
+<Object ID="m23"><Name>Copyright</Name><Location>http://aduna.biz/legal/copyright.jsp</Location></Object>
+<Object ID="m24"><Name>Spectacle : Contact Sales</Name><Location>http://aduna.biz/products/spectacle/sales.jsp</Location></Object>
+<Object ID="m25"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fservices%252Findex.jsp</Location></Object>
+<Object ID="m26"><Name>AutoFocus Personal 2004.1 release</Name><Location>http://aduna.biz/news/200404271620.jsp</Location></Object>
+<Object ID="m27"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fspectacle%252Ffaq.jsp</Location></Object>
+<Object ID="m28"><Name>Aduna</Name><Location>http://aduna.biz/info/contact.html</Location></Object>
+<Object ID="m29"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp?download=http://aduna.biz/downloads/autofocus/2005.1/Java/AdunaAutoFocus2005_1.jar</Location></Object>
+<Object ID="m30"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Finfo%252Fcontact.jsp</Location></Object>
+<Object ID="m31"><Name>Aduna</Name><Location>http://aduna.biz/products/spectacle/index.html</Location></Object>
+<Object ID="m32"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/screenshots.html</Location></Object>
+<Object ID="m33"><Name>Aduna</Name><Location>http://aduna.biz/clients/index.html</Location></Object>
+<Object ID="m34"><Name>Aduna and GX at Overheid &amp; ICT</Name><Location>http://aduna.biz/news/200404201045.jsp</Location></Object>
+<Object ID="m35"><Name>Aduna Spectacle Manual</Name><Location>http://aduna.biz/products/spectacle/docs/Aduna-Spectacle-2005.1-manual.pdf</Location></Object>
+<Object ID="m36"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fspectacle%252Findex.jsp</Location></Object>
+<Object ID="m37"><Name>AutoFocus 2005.1</Name><Location>http://aduna.biz/products/autofocus/index.jsp</Location></Object>
+<Object ID="m38"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fclients%252Findex.jsp</Location></Object>
+<Object ID="m39"><Name>Metadata Server : License Agreement</Name><Location>http://aduna.biz/products/metadataserver/acceptlicense.jsp</Location></Object>
+<Object ID="m40"><Name>Metadata Server : License Agreement</Name><Location>http://aduna.biz/products/metadataserver/acceptlicense.jsp?download=http://aduna.biz/downloads/metadata/2005.1/metadataserver-2005.1.zip</Location></Object>
+<Object ID="m41"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp?download=http://aduna.biz/downloads/autofocus/2004.2/Java/AdunaAutoFocus2004_2.jar</Location></Object>
+<Object ID="m42"><Name>Aduna</Name><Location>http://aduna.biz/index.html</Location></Object>
+<Object ID="m43"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Findex.jsp</Location></Object>
+<Object ID="m44"><Name>Aduna</Name><Location>http://aduna.biz/services/index.html</Location></Object>
+<Object ID="m45"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200401311200.jsp</Location></Object>
+<Object ID="m46"><Name>Overheid &amp; ICT: April 27-29, Utrecht, The Netherlands</Name><Location>http://aduna.biz/news/200403101150.jsp</Location></Object>
+<Object ID="m47"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200403151034.jsp</Location></Object>
+<Object ID="m48"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fservices%252Fservices.jsp</Location></Object>
+<Object ID="m49"><Name>header</Name><Location>http://aduna.biz/index-news-header.htm</Location></Object>
+<Object ID="m50"><Name>VacanceSelect.nl boosts sales</Name><Location>http://aduna.biz/clients/vacanceselect.jsp</Location></Object>
+<Object ID="m51"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/server/download.html</Location></Object>
+<Object ID="m52"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp?download=http://aduna.biz/downloads/autofocus/2005.1/MacOSX/Aduna-AutoFocus-2005.1.zip</Location></Object>
+<Object ID="m53"><Location>http://aduna.biz/products/spectacle/images/ss0.png</Location></Object>
+<Object ID="m54"><Name>AutoFocus 2003.4.2 release</Name><Location>http://aduna.biz/news/200402192000.jsp</Location></Object>
+<Object ID="m55"><Name>Aduna Metadata Server Manual 2005.1</Name><Location>http://aduna.biz/products/metadataserver/docs/Aduna-Metadata-Server-2005.1-manual.pdf</Location></Object>
+<Object ID="m56"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200412080906.jsp</Location></Object>
+<Object ID="m57"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fservices%252Fproductsupport.jsp</Location></Object>
+<Object ID="m58"><Location>http://aduna.biz/products/autofocus/images/clustermap.png</Location></Object>
+<Object ID="m59"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Fdownload.jsp</Location></Object>
+<Object ID="m60"><Location>http://aduna.biz/products/autofocus/images/table-columns.png</Location></Object>
+<Object ID="m61"><Name>Aduna Metadata Server 2005.1 Release</Name><Location>http://aduna.biz/news/200503151602.jsp</Location></Object>
+<Object ID="m62"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Fpersonal%252Fdownload.jsp</Location></Object>
+<Object ID="m63"><Name>AutoFocus : License</Name><Location>http://aduna.biz/products/autofocus/license.jsp</Location></Object>
+<Object ID="m64"><Name>Spectacle : Contact Sales</Name><Location>http://aduna.biz/products/sesame/sales.jsp</Location></Object>
+<Object ID="m65"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp?download=http://aduna.biz/downloads/autofocus/2005.1/Windows/VM/Aduna-AutoFocus-2005.1.exe</Location></Object>
+<Object ID="m66"><Name>Metadata Server : System Requirements</Name><Location>http://aduna.biz/products/metadataserver/sysreqs.jsp</Location></Object>
+<Object ID="m67"><Name>Product support</Name><Location>http://aduna.biz/services/productsupport.jsp</Location></Object>
+<Object ID="m69"><Name>Aduna</Name><Location>http://aduna.biz/news/200403151034.html</Location></Object>
+<Object ID="m70"><Location>http://aduna.biz/products/autofocus/af-tour.swf</Location></Object>
+<Object ID="m71"><Name>AutoFocus : Contact Sales</Name><Location>http://aduna.biz/products/autofocus/sales.jsp</Location></Object>
+<Object ID="m72"><Name>Metadata Server : Contact Sales</Name><Location>http://aduna.biz/products/metadataserver/sales.jsp</Location></Object>
+<Object ID="m73"><Name>Aduna</Name><Location>http://aduna.biz/services/services.html</Location></Object>
+<Object ID="m74"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200411061458.jsp</Location></Object>
+<Object ID="m75"><Name>GX_2_pagina's</Name><Location>http://aduna.biz/news/200404201045-advertorial.pdf</Location></Object>
+<Object ID="m76"><Name>fill</Name><Location>http://aduna.biz/frameset/frame-bottom.jsp</Location></Object>
+<Object ID="m77"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fproducts%252Findex.jsp</Location></Object>
+<Object ID="m78"><Location>http://aduna.biz/dope/images/screenshot1.png</Location></Object>
+<Object ID="m79"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Findex.jsp</Location></Object>
+<Object ID="m80"><Name>Sesame RDF Framework</Name><Location>http://aduna.biz/products/sesame/index.jsp</Location></Object>
+<Object ID="m81"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Faduna%252Fcontact.jsp</Location></Object>
+<Object ID="m82"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fsesame%252Findex.jsp</Location></Object>
+<Object ID="m83"><Location>http://aduna.biz/dope/images/screenshot2.png</Location></Object>
+<Object ID="m84"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fproducts%252Fmetadataserver%252Fsales.jsp</Location></Object>
+<Object ID="m85"><Location>http://aduna.biz/products/autofocus/images/text-view.png</Location></Object>
+<Object ID="m86"><Location>http://aduna.biz/products/autofocus/images/query-answer-3.png</Location></Object>
+<Object ID="m87"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200404201045.jsp</Location></Object>
+<Object ID="m88"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/buy.html</Location></Object>
+<Object ID="m89"><Name>Aduna</Name><Location>http://aduna.biz/aduna/index.html</Location></Object>
+<Object ID="m90"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200503151600.jsp</Location></Object>
+<Object ID="m91"><Location>http://aduna.biz/images/route.png</Location></Object>
+<Object ID="m92"><Name>Aduna</Name><Location>http://aduna.biz/products/sesame/sales.html</Location></Object>
+<Object ID="m93"><Name>Services &amp; Solutions</Name><Location>http://aduna.biz/services/services.jsp</Location></Object>
+<Object ID="m94"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/personal/download.html</Location></Object>
+<Object ID="m95"><Name>News Archive</Name><Location>http://aduna.biz/news/index.jsp</Location></Object>
+<Object ID="m96"><Name>Metadata Server : Download</Name><Location>http://aduna.biz/products/metadataserver/download.jsp</Location></Object>
+<Object ID="m97"><Name>Spectacle : License</Name><Location>http://aduna.biz/products/spectacle/license.jsp</Location></Object>
+<Object ID="m99"><Name>header</Name><Location>http://aduna.biz/frameset/header-menu-products.jsp</Location></Object>
+<Object ID="m100"><Name>Aduna</Name><Location>http://aduna.biz/news/200404271620.html</Location></Object>
+<Object ID="m101"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/sysreqs.html</Location></Object>
+<Object ID="m102"><Name>Aduna</Name><Location>http://aduna.biz/aduna/contact.html</Location></Object>
+<Object ID="m103"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Finfo%252Findex.jsp</Location></Object>
+<Object ID="m104"><Name>Aduna</Name><Location>http://aduna.biz/news/200503151603.html</Location></Object>
+<Object ID="m105"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.html?download=http://aduna.biz/downloads/autofocus/2005.1/Java/AdunaAutoFocus2005_1.jar</Location></Object>
+<Object ID="m106"><Name>AutoFocus : FAQ</Name><Location>http://aduna.biz/products/autofocus/faq.jsp</Location></Object>
+<Object ID="m107"><Location>http://aduna.biz/dope/images/screenshot3.png</Location></Object>
+<Object ID="m108"><Name>Aduna</Name><Location>http://aduna.biz/products/sesame/index.html</Location></Object>
+<Object ID="m109"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/sysreqs.html</Location></Object>
+<Object ID="m110"><Name>Aduna</Name><Location>http://aduna.biz/legal/copyright.html</Location></Object>
+<Object ID="m111"><Name>Aduna</Name><Location>http://aduna.biz/services/productsupport.html</Location></Object>
+<Object ID="m112"><Name>Aduna AutoFocus User's Guide</Name><Location>http://aduna.biz/products/autofocus/docs/Aduna-AutoFocus-2005.1-users-guide.pdf</Location></Object>
+<Object ID="m113"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Fsales.jsp</Location></Object>
+<Object ID="m114"><Name>DOPE Browser</Name><Location>http://aduna.biz/dope/</Location></Object>
+<Object ID="m115"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200402192000.jsp</Location></Object>
+<Object ID="m116"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fspectacle%252Flicense.jsp</Location></Object>
+<Object ID="m117"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Flegal%252Findex.jsp</Location></Object>
+<Object ID="m118"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/download.html</Location></Object>
+<Object ID="m119"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/index.html</Location></Object>
+<Object ID="m120"><Name>Leaflet Aduna</Name><Location>http://aduna.biz/products/sesame/docs/Sesame_flyer.pdf</Location></Object>
+<Object ID="m121"><Name>Aduna</Name><Location>http://aduna.biz/legal/trademarks.html</Location></Object>
+<Object ID="m122"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fmetadataserver%252Flicense.jsp</Location></Object>
+<Object ID="m123"><Name>header</Name><Location>http://aduna.biz/frameset/header-menu-aduna.jsp</Location></Object>
+<Object ID="m124"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fmetadataserver%252Fdownload.jsp</Location></Object>
+<Object ID="m125"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Faduna%252Fdirections.jsp</Location></Object>
+<Object ID="m126"><Name>AutoFocus 2003.4.3 release</Name><Location>http://aduna.biz/news/200403151034.jsp</Location></Object>
+<Object ID="m127"><Name>Metadata Server : FAQ</Name><Location>http://aduna.biz/products/metadataserver/faq.jsp</Location></Object>
+<Object ID="m128"><Name>Aduna</Name><Location>http://aduna.biz/news/200503151601.html</Location></Object>
+<Object ID="m129"><Name>Spectacle : FAQ</Name><Location>http://aduna.biz/products/spectacle/faq.jsp</Location></Object>
+<Object ID="m130"><Location>http://aduna.biz/products/spectacle/tour.htm</Location></Object>
+<Object ID="m131"><Name>AutoFocus : Download</Name><Location>http://aduna.biz/products/autofocus/download.jsp</Location></Object>
+<Object ID="m132"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp?download=http://aduna.biz/downloads/autofocus/2005.1/Solaris/VM/AdunaAutoFocus2005_1.bin</Location></Object>
+<Object ID="m133"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/sales.html</Location></Object>
+<Object ID="m134"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/download.html</Location></Object>
+<Object ID="m135"><Name>AutoFocus : System Requirements</Name><Location>http://aduna.biz/products/autofocus/sysreqs.jsp</Location></Object>
+<Object ID="m136"><Location>http://aduna.biz/dope/images/screenshot4.png</Location></Object>
+<Object ID="m137"><Name>Aduna</Name><Location>http://aduna.biz/news/index.html</Location></Object>
+<Object ID="m138"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.html?download=http://aduna.biz/downloads/autofocus/2005.1/Linux/VM/AdunaAutoFocus2005_1.bin</Location></Object>
+<Object ID="m139"><Name>Aduna</Name><Location>http://aduna.biz/news/200401311200.html</Location></Object>
+<Object ID="m140"><Name>Aduna</Name><Location>http://aduna.biz/clients/vacanceselect.html</Location></Object>
+<Object ID="m141"><Name>logo</Name><Location>http://aduna.biz/frameset/header-logo.jsp</Location></Object>
+<Object ID="m142"><Location>http://aduna.biz/products/autofocus/images/query-answer-1.png</Location></Object>
+<Object ID="m143"><Name>Company</Name><Location>http://aduna.biz/aduna/index.jsp</Location></Object>
+<Object ID="m144"><Name>Aduna</Name><Location>http://aduna.biz/news/200503151600.html</Location></Object>
+<Object ID="m145"><Name>Aduna</Name><Location>http://aduna.biz/products/spectacle/sysreqs.html</Location></Object>
+<Object ID="m146"><Name>Aduna</Name><Location>http://aduna.biz/products/spectacle/faq.html</Location></Object>
+<Object ID="m147"><Name>Spectacle 2005.1</Name><Location>http://aduna.biz/products/spectacle/index.jsp</Location></Object>
+<Object ID="m148"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/sales.html</Location></Object>
+<Object ID="m149"><Name>header</Name><Location>http://aduna.biz/frameset/header-services.jsp</Location></Object>
+<Object ID="m150"><Name>header</Name><Location>http://aduna.biz/frameset/header-aduna.jsp</Location></Object>
+<Object ID="m151"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Flegal%252Fcopyright.jsp</Location></Object>
+<Object ID="m152"><Name>Aduna</Name><Location>http://aduna.biz/products/spectacle/sales.html</Location></Object>
+<Object ID="m153"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Findex.jsp</Location></Object>
+<Object ID="m154"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp?download=http://aduna.biz/downloads/autofocus/2005.1/GenericUnix/AdunaAutoFocus2005_1.bin</Location></Object>
+<Object ID="m155"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200404271620.jsp</Location></Object>
+<Object ID="m156"><Name>Aduna</Name><Location>http://aduna.biz/news/200402201200.html</Location></Object>
+<Object ID="m157"><Name>Aduna Spectacle 2005.1 Release</Name><Location>http://aduna.biz/news/200503151601.jsp</Location></Object>
+<Object ID="m158"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Fbuy.jsp</Location></Object>
+<Object ID="m159"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Flegal%252Fprivacy.jsp</Location></Object>
+<Object ID="m160"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/index.html</Location></Object>
+<Object ID="m161"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fsesame%252Fsales.jsp</Location></Object>
+<Object ID="m162"><Name>Sesame 1.0 release</Name><Location>http://aduna.biz/news/200403251044.jsp</Location></Object>
+<Object ID="m163"><Location>http://aduna.biz/products/autofocus/images/query-answer-2.png</Location></Object>
+<Object ID="m164"><Name>Aduna</Name><Location>http://aduna.biz/news/200412080906.html</Location></Object>
+<Object ID="m165"><Location>http://aduna.biz/products/autofocus/tour.htm</Location></Object>
+<Object ID="m166"><Name>Aduna</Name><Location>http://aduna.biz/index-content.jsp</Location></Object>
+<Object ID="m167"><Location>http://aduna.biz/products/autofocus/images/new-source.png</Location></Object>
+<Object ID="m168"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200403251044.jsp</Location></Object>
+<Object ID="m169"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fmetadataserver%252Findex.jsp</Location></Object>
+<Object ID="m170"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.html?download=http://aduna.biz/downloads/autofocus/2005.1/GenericUnix/AdunaAutoFocus2005_1.bin</Location></Object>
+<Object ID="m171"><Name>header</Name><Location>http://aduna.biz/frameset/header-products.jsp</Location></Object>
+<Object ID="m172"><Name>Aduna</Name><Location>http://aduna.biz/legal/index.html</Location></Object>
+<Object ID="m173"><Name>Aduna homepage</Name><Location>http://aduna.biz/index.jsp</Location></Object>
+<Object ID="m174"><Name>Aduna AutoFocus 2005.1 Release</Name><Location>http://aduna.biz/news/200503151600.jsp</Location></Object>
+<Object ID="m175"><Name>Metadata Server 2005.1</Name><Location>http://aduna.biz/products/metadataserver/index.jsp</Location></Object>
+<Object ID="m176"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Fserver%252Fdownload.jsp</Location></Object>
+<Object ID="m177"><Name>Aduna homepage - header</Name><Location>http://aduna.biz/index-news.jsp</Location></Object>
+<Object ID="m178"><Name>Aduna</Name><Location>http://aduna.biz/news/200402192000.html</Location></Object>
+<Object ID="m179"><Name>Aduna</Name><Location>http://aduna.biz/news/200404201045.html</Location></Object>
+<Object ID="m180"><Name>DOPE Browser</Name><Location>http://aduna.biz/dope/doc/DopeBrowserManual.pdf</Location></Object>
+<Object ID="m181"><Name>Aduna Metadata Server 2005.1 RC1 Release</Name><Location>http://aduna.biz/news/200412221200.jsp</Location></Object>
+<Object ID="m182"><Location>http://aduna.biz/products/autofocus/images/query-answer-4.png</Location></Object>
+<Object ID="m183"><Name>Aduna</Name><Location>http://aduna.biz/products/spectacle/license.html</Location></Object>
+<Object ID="m184"><Location>http://aduna.biz/products/autofocus/images/install-screen.png</Location></Object>
+<Object ID="m185"><Name>Clients</Name><Location>http://aduna.biz/clients/index.jsp</Location></Object>
+<Object ID="m186"><Name>Aduna AutoFocus Brochure</Name><Location>http://aduna.biz/products/autofocus/docs/Aduna-AutoFocus-brochure.pdf</Location></Object>
+<Object ID="m187"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.html?download=http://aduna.biz/downloads/autofocus/2004.2/Java/AdunaAutoFocus2004_2.jar</Location></Object>
+<Object ID="m188"><Name>Aduna</Name><Location>http://aduna.biz/aduna/directions.html</Location></Object>
+<Object ID="m189"><Name>Aduna</Name><Location>http://aduna.biz/aduna/newsletter.html</Location></Object>
+<Object ID="m190"><Name>header</Name><Location>http://aduna.biz/frameset/header-menu-services.jsp</Location></Object>
+<Object ID="m191"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fmetadataserver%252Fsales.jsp</Location></Object>
+<Object ID="m192"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Faf-enterprise-use.jsp</Location></Object>
+<Object ID="m193"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200402201200.jsp</Location></Object>
+<Object ID="m194"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/acceptlicense.html?download=http://aduna.biz/downloads/metadata/2005.1/metadataserver-2005.1.zip</Location></Object>
+<Object ID="m195"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/acceptlicense.html?download=http://aduna.biz/downloads/metadata/2005.1/metadataserver-2005.1.tar.gz</Location></Object>
+<Object ID="m196"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252Findex.jsp</Location></Object>
+<Object ID="m197"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp</Location></Object>
+<Object ID="m198"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fmetadataserver%252Findex.jsp</Location></Object>
+<Object ID="m199"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.html?download=http://aduna.biz/downloads/autofocus/2005.1/Solaris/VM/AdunaAutoFocus2005_1.bin</Location></Object>
+<Object ID="m200"><Name>Aduna AutoFocus 2004.2 release</Name><Location>http://aduna.biz/news/200412080906.jsp</Location></Object>
+<Object ID="m201"><Name>Aduna</Name><Location>http://aduna.biz/legal/privacy.html</Location></Object>
+<Object ID="m202"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fmetadataserver%252Facceptlicense.jsp</Location></Object>
+<Object ID="m203"><Name>Aduna</Name><Location>http://aduna.biz/products/index.html</Location></Object>
+<Object ID="m204"><Name>Aduna</Name><Location>http://aduna.biz/news/200503151602.html</Location></Object>
+<Object ID="m205"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fmetadataserver%252Fsysreqs.jsp</Location></Object>
+<Object ID="m206"><Location>http://aduna.biz/products/metadataserver/images/adminpage-metadataserver.png</Location></Object>
+<Object ID="m207"><Name>Aduna</Name><Location>http://aduna.biz/news/200412221200.html</Location></Object>
+<Object ID="m208"><Name>VacanceSelect.nl nominated for 'Best Webshop - Travel'</Name><Location>http://aduna.biz/news/200401311200.jsp</Location></Object>
+<Object ID="m209"><Name>Aduna</Name><Location>http://aduna.biz/metadataserver/index.html</Location></Object>
+<Object ID="m210"><Name>Sesame 1.0.1 release</Name><Location>http://aduna.biz/news/200405031044.jsp</Location></Object>
+<Object ID="m211"><Name>Contact</Name><Location>http://aduna.biz/aduna/contact.jsp</Location></Object>
+<Object ID="m212"><Name>Services</Name><Location>http://aduna.biz/services/index.jsp</Location></Object>
+<Object ID="m213"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/faq.html</Location></Object>
+<Object ID="m214"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fproducts%252Fmetadataserver%252Fdownload.jsp</Location></Object>
+<Object ID="m215"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fmetadataserver%252Ffaq.jsp</Location></Object>
+<Object ID="m216"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200503151601.jsp</Location></Object>
+<Object ID="m217"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Fsysreqs.jsp</Location></Object>
+<Object ID="m218"><Name>Aduna</Name><Location>http://aduna.biz/news/200403101150.html</Location></Object>
+<Object ID="m219"><Name>AutoFocus : Screenshots</Name><Location>http://aduna.biz/products/autofocus/screenshots.jsp</Location></Object>
+<Object ID="m220"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fclients%252Fvacanceselect.jsp</Location></Object>
+<Object ID="m221"><Name>header</Name><Location>http://aduna.biz/index-content-header.htm</Location></Object>
+<Object ID="m222"><Location>http://aduna.biz/products/metadataserver/images/architecture.png</Location></Object>
+<Object ID="m223"><Name>Aduna</Name><Location>http://aduna.biz/products/metadataserver/license.html</Location></Object>
+<Object ID="m224"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Ffaq.jsp</Location></Object>
+<Object ID="m225"><Name>fill</Name><Location>http://aduna.biz/frameset/frame-left.jsp</Location></Object>
+<Object ID="m226"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Facceptlicense.jsp</Location></Object>
+<Object ID="m227"><Name>Spectacle : System Requirements</Name><Location>http://aduna.biz/products/spectacle/sysreqs.jsp</Location></Object>
+<Object ID="m228"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Faduna%252Findex.jsp</Location></Object>
+<Object ID="m229"><Name>Aduna</Name><Location>http://aduna.biz/news/200405031044.html</Location></Object>
+<Object ID="m230"><Name>AutoFocus Personal 2004.2 RC1 available</Name><Location>http://aduna.biz/news/200411061458.jsp</Location></Object>
+<Object ID="m231"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/af-enterprise-use.html</Location></Object>
+<Object ID="m232"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.html?download=http://aduna.biz/downloads/autofocus/2005.1/MacOSX/Aduna-AutoFocus-2005.1.zip</Location></Object>
+<Object ID="m233"><Name>Aduna Metadata Server Brochure</Name><Location>http://aduna.biz/products/metadataserver/docs/Aduna-Metadata-Server-brochure.pdf</Location></Object>
+<Object ID="m234"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Flicense.jsp</Location></Object>
+<Object ID="m235"><Name>Sesame 1.0-pre2 release</Name><Location>http://aduna.biz/news/200402201200.jsp</Location></Object>
+<Object ID="m236"><Name>Terms Of Use</Name><Location>http://aduna.biz/legal/index.jsp</Location></Object>
+<Object ID="m237"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fproducts%252Fautofocus%252Fscreenshots.jsp</Location></Object>
+<Object ID="m238"><Name>Metadata Server : License Agreement</Name><Location>http://aduna.biz/products/metadataserver/acceptlicense.jsp?download=http://aduna.biz/downloads/metadata/2005.1/metadataserver-2005.1.tar.gz</Location></Object>
+<Object ID="m239"><Name>Metadata Server : License</Name><Location>http://aduna.biz/products/metadataserver/license.jsp</Location></Object>
+<Object ID="m240"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.html?download=http://aduna.biz/downloads/autofocus/2005.1/Windows/VM/Aduna-AutoFocus-2005.1.exe</Location></Object>
+<Object ID="m241"><Name>AutoFocus : License Agreement</Name><Location>http://aduna.biz/products/autofocus/acceptlicense.jsp?download=http://aduna.biz/downloads/autofocus/2005.1/Linux/VM/AdunaAutoFocus2005_1.bin</Location></Object>
+<Object ID="m242"><Name>Trademarks</Name><Location>http://aduna.biz/legal/trademarks.jsp</Location></Object>
+<Object ID="m243"><Name>Aduna</Name><Location>http://aduna.biz/products/autofocus/license.html</Location></Object>
+<Object ID="m244"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Flegal%252Ftrademarks.jsp</Location></Object>
+<Object ID="m245"><Name>Aduna</Name><Location>http://aduna.biz/news/200403251044.html</Location></Object>
+<Object ID="m246"><Name>crumbs</Name><Location>http://aduna.biz/frameset/frame-crumbs.jsp?content=%252Fnews%252F200503151603.jsp</Location></Object>
+</ObjectSet>
+
+<ClassificationSet>
+
+<Classification ID="root">
+<Name>aduna.biz</Name>
+<Objects objectIDs="m1 m2 m25 m29 m33 m36 m47 m48 m79 m80 m83 m89 m90 m93 m94 m95 m97 m100 m108 m110 m113 m116 m117 m119 m135 m136 m150 m153 m154 m156 m157 m162 m166 m173 m176 m177 m179 m182 m183 m189 m194 m206 m207 m213 m225 m230 m242 m244 m3 m11 m13 m19 m27 m28 m31 m32 m34 m35 m38 m41 m42 m46 m50 m51 m52 m53 m57 m67 m72 m74 m78 m82 m85 m87 m88 m96 m105 m111 m112 m114 m123 m129 m131 m134 m139 m141 m143 m146 m151 m159 m161 m163 m165 m167 m170 m171 m178 m184 m192 m195 m200 m202 m203 m205 m216 m220 m222 m226 m227 m229 m235 m237 m243 m0 m4 m6 m7 m10 m12 m16 m21 m23 m26 m30 m39 m40 m43 m44 m49 m54 m55 m59 m60 m62 m65 m69 m75 m76 m84 m86 m102 m107 m118 m121 m122 m124 m125 m126 m127 m130 m138 m142 m144 m147 m152 m155 m158 m168 m174 m181 m185 m190 m191 m197 m209 m210 m211 m214 m217 m221 m223 m224 m228 m232 m238 m240 m241 m5 m9 m14 m15 m17 m18 m20 m24 m37 m45 m56 m58 m61 m64 m63 m66 m71 m70 m73 m77 m81 m91 m92 m99 m101 m103 m104 m106 m109 m115 m120 m128 m132 m133 m137 m140 m145 m148 m149 m160 m164 m169 m172 m175 m180 m186 m187 m188 m193 m196 m199 m198 m201 m204 m208 m212 m215 m218 m219 m231 m234 m233 m236 m239 m245 m246"/>
+</Classification>
+
+<Classification ID="prod">
+<Name>Product Pages</Name>
+<SuperClass refs="root"/>
+<Objects objectIDs="m2 m3 m11 m12 m13 m17 m24 m29 m31 m32 m35 m37 m39 m40 m41 m51 m52 m53 m55 m58 m60 m63 m64 m65 m66 m70 m71 m72 m80 m85 m86 m88 m92 m94 m96 m97 m101 m105 m106 m108 m109 m112 m118 m119 m120 m127 m129 m130 m131 m132 m133 m134 m135 m138 m142 m145 m146 m147 m148 m152 m154 m160 m163 m165 m167 m170 m175 m182 m183 m184 m186 m187 m194 m195 m197 m199 m203 m206 m213 m219 m222 m223 m227 m231 m232 m233 m238 m239 m240 m241 m243"/>
+</Classification>
+
+<Classification ID="af">
+<Name>AutoFocus</Name>
+<SuperClass refs="prod"/>
+<Objects objectIDs="m2 m3 m11 m13 m17 m29 m32 m37 m41 m51 m52 m58 m60 m63 m65 m70 m71 m85 m86 m88 m94 m105 m106 m109 m112 m118 m131 m132 m135 m138 m142 m148 m154 m160 m163 m165 m167 m170 m182 m184 m186 m187 m197 m199 m219 m231 m232 m240 m241 m243"/>
+</Classification>
+
+<Classification ID="ms">
+<Name>Metadata Server</Name>
+<SuperClass refs="prod"/>
+<Objects objectIDs="m39 m40 m55 m66 m72 m96 m101 m119 m127 m133 m134 m175 m194 m195 m206 m213 m222 m223 m233 m238 m239"/>
+</Classification>
+
+<Classification ID="spec">
+<Name>Spectacle</Name>
+<SuperClass refs="prod"/>
+<Objects objectIDs="m24 m31 m35 m53 m97 m129 m130 m145 m146 m147 m152 m183 m227"/>
+</Classification>
+
+<Classification ID="sesame">
+<Name>Sesame</Name>
+<SuperClass refs="prod"/>
+<Objects objectIDs="m64 m80 m92 m108 m120"/>
+</Classification>
+
+<Classification ID="guides">
+<Name>Brochures &amp; Guides</Name>
+<SuperClass refs="root"/>
+<Objects objectIDs="m35 m55 m75 m112 m120 m180 m186 m233"/>
+</Classification>
+
+<Classification ID="demo">
+<Name>Screenshots &amp; Demos</Name>
+<SuperClass refs="root"/>
+<Objects objectIDs="m13 m17 m53 m58 m60 m78 m83 m85 m86 m107 m136 m142 m163 m167 m182 m184 m70 m130 m165"/>
+</Classification>
+
+<Classification ID="info">
+<Name>Company Info</Name>
+<SuperClass refs="root"/>
+<Objects objectIDs="m19 m28 m14 m15 m89 m102 m143 m188 m189 m211"/>
+</Classification>
+
+<Classification ID="news">
+<Name>News Items</Name>
+<SuperClass refs="root"/>
+<Objects objectIDs="m4 m21 m26 m34 m46 m54 m61 m69 m75 m95 m100 m104 m126 m128 m137 m139 m144 m156 m157 m162 m164 m174 m178 m179 m181 m200 m204 m207 m208 m210 m218 m229 m230 m235 m245"/>
+</Classification>
+
+<Classification ID="apps">
+<Name>Downloadable Applications</Name>
+<SuperClass refs="root"/>
+<Objects objectIDs="m105 m132 m138 m154 m170 m187 m194 m195 m199 m232 m238 m240 m241 m29 m40 m41 m52 m65"/>
+</Classification>
+
+</ClassificationSet>
+
+</ClassificationTree>
